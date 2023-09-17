@@ -1,39 +1,37 @@
-# Estudo de caso: Projeto Scrum Distribuído para Ferrovias Holandesas
-Uma equipe distribuída (Holanda e Índia) executou Scrum com sucesso depois que um projeto gerenciado tradicionalmente falhou após três anos. Este estudo de caso discute tópicos como arquitetura, requisitos, documentação e muito mais.
+# Projeto Scrum Distribuído para Ferrovias Holandesas
 
-* O caso pode se acessado através na integra através deste link. 
-<https://www.infoq.com/articles/dutch-railway-scrum/>
+Este repositório contém um estudo de caso sobre o projeto Scrum Distribuído para Ferrovias Holandesas, no qual uma equipe distribuída entre Holanda e Índia alcançou sucesso na implementação do Scrum após uma tentativa de gerenciamento tradicional malsucedida. Este estudo de caso aborda diversos tópicos relacionados à arquitetura, requisitos, documentação e muito mais.
 
-Sendo assim neste artigo, o foco será a analise do estudo do caso. Já que a contextualização do caso pode ser consultado no link acima.  
+## Link para o Estudo de Caso Completo
 
-## Primeira Tentativa de Construção do PUB
+O estudo de caso completo pode ser acessado [aqui](https://www.infoq.com/articles/dutch-railway-scrum/). Para uma visão mais detalhada do contexto do projeto, recomendamos consultar o link acima.
 
-PUB- Sistema que controla centralmente a exibição de informações, e o sistema de audio de todas as estações.  
+## Análise do Estudo de Caso
 
-Na primeira tentativa de desenvolvimento desse complexo e importante sistema de comunicação aos passageiros e entre as estações, utilizando uma abordagem tradicional em cascata e com um minuncioso documento detalhado com todos os requisitos a empresa responsável pelo desenvolvimento iniciou o projeto. Com isso esperava se que não houvesse muito envolvimento adicional do cliente, já que toda documentação necessária havia sido entregue. 
-Porem após 3 anos o projeto foi cancelado pelo fato do fornecedor não conseguir realizar a entregas como esperado.  
+Neste artigo, nosso foco será a análise detalhada do estudo de caso, destacando os principais insights e aprendizados obtidos a partir do projeto.
 
-## Por que a abordagem ágil foi utilizada e não a tradicional para o projeto? 
+### Primeira Tentativa de Construção do PUB
 
-Conforme informado anteriormente, a primeira tentativa de desenvolvimento do PUB  foi utilizando uma abordagem tradicional. 
-Mesmo com uma documentação bem detalhada. 
-Porem após a contratação da nova empresa responsável pelo desenvolvimento foi utilizado uma abordagem agil, o framework Scrum com foco na cooperação estreita com o cliente, comunicação aberta e trabalho em pequenos incrementos.
+O PUB é um sistema centralizado que controla a exibição de informações e o sistema de áudio de todas as estações ferroviárias. Inicialmente, o projeto foi abordado de maneira tradicional, com uma documentação minuciosa de requisitos e a expectativa de que o cliente não precisasse se envolver significativamente após a entrega dessa documentação. No entanto, após três anos, o projeto foi cancelado devido a dificuldades no cumprimento das entregas por parte do fornecedor.
 
-## Por que o Scrum foi utilizado?
-Por se tratar de um sistema que resolve problema complexo, é necessário ter boa, aberta e constante comunicação e colaboração com o cliente, para que possiveis falhas e defeitos sejam corrigidos, e para que as implementações estajam sendo desenvolvidas de forma que atenda ao cliente.  
+### Por que a Abordagem Ágil Foi Escolhida?
 
-## O resultado final era inovador? Por quê
-Sim, para o projeto em especifico, visto que em sua primeira tentativa de desenvolvimento foi frustarada, após a adoção da abordagem Scrum o desenvolvimento foi concluido dentro do prazo e orçamento previsto. Ainda se levamrmos em conta que O PUB foi desenvolvido  trata se de um sistema de comunicação em estações de trem mais utilizadas no mundo. Trabalharam em equipes multidisciplinares inclusive de diferentes nacionalidades. 
+Diante do fracasso da abordagem tradicional, uma nova empresa assumiu o desenvolvimento do PUB e optou por adotar uma abordagem ágil, especificamente o framework Scrum. Essa escolha se baseou na necessidade de cooperação estreita com o cliente, comunicação aberta e desenvolvimento incremental para lidar com a complexidade do sistema e garantir que as necessidades do cliente fossem atendidas.
 
-## O que você faria diferente? 
-Antes de utilizar sistemas integrados, tentaria desenvolver o sistema de forma completa pois infelizmente, a sua implementação a nível nacional foi prejudicada por problemas noutros sistemas que também fizeram parte da implementação.
+### Benefícios do Uso do Scrum
 
-## Outros tópicos interessante deste projeto:  
+O uso do Scrum provou ser eficaz, permitindo que o projeto fosse concluído dentro do prazo e do orçamento previstos. Além disso, o resultado final foi inovador, considerando a primeira tentativa fracassada. O PUB é um sistema de comunicação em estações de trem amplamente utilizadas em todo o mundo, desenvolvido por equipes multidisciplinares de diferentes nacionalidades.
 
-* Preparação do cenário, foi fundamental para o bom desempenho  do produto. 
+### Lições Aprendidas e Melhorias Futuras
 
+Em retrospectiva, uma abordagem diferente teria sido adotada antes de utilizar sistemas integrados, a fim de evitar problemas que afetaram a implementação em nível nacional. A preparação do cenário desempenhou um papel fundamental no sucesso do projeto, destacando a importância de uma sólida base antes do desenvolvimento completo.
 
+### Outros Tópicos de Interesse
 
+Além dos pontos mencionados, este projeto abordou tópicos adicionais de relevância, como a preparação do cenário, que desempenhou um papel fundamental no desempenho do produto final.
 
+## Contribuições
 
+Se você deseja contribuir para este estudo de caso ou tem alguma dúvida, sinta-se à vontade para abrir problemas ou solicitações de pull requests.
 
+Agradecemos por sua atenção e interesse neste estudo de caso sobre o Projeto Scrum Distribuído para Ferrovias Holandesas!
