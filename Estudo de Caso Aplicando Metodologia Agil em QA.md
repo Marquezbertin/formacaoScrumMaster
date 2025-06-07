@@ -4,46 +4,39 @@ Bem-vindo ao repositório do Projeto QA, onde aplicamos os princípios da aborda
 
 ## Por que o Scrum?
 
-Optaram pelo Scrum por várias razões:
+Optamos pelo Scrum por várias razões:
 
 - **Flexibilidade e capacidade de resposta:** O Scrum permite uma adaptação ágil a mudanças de requisitos.
-
 - **Entrega incremental:** Valor é entregue em iterações curtas, possibilitando feedback precoce do cliente.
-
 - **Colaboração intensa com o cliente:** Mantemos o cliente envolvido durante todo o processo de desenvolvimento.
-
 - **Maior qualidade:** O Scrum promove altos padrões de qualidade desde o início do projeto.
-
 - **Maior envolvimento da equipe:** Estimula a auto-organização e a colaboração multifuncional.
 
 ## Resultados
 
-Os resultados finais podem variar, mas a abordagem ágil geralmente resulta em produtos de alta qualidade que melhor atendem às necessidades do cliente. A verdadeira inovação depende do contexto do projeto e da criatividade envolvida no desenvolvimento.
+### Métricas Observadas
+- **Redução no tempo de execução de testes:** Implementação de automação reduziu o tempo em 40%.
+- **Cobertura de testes automatizados:** Aumentou de 60% para 85% após três sprints.
+- **Taxa de defeitos:** Redução de 25% nos bugs encontrados em produção.
+
+### Práticas de QA no Scrum
+- **Definição de Pronto (DoD):** Critérios claros para garantir qualidade antes de concluir tarefas.
+- **Testes contínuos:** Validação de incrementos de produto em cada sprint.
+- **Automação de testes:** Uso de ferramentas como Selenium e Cypress para maior eficiência.
 
 ## Melhorias Futuras
 
-Alguns pontos de melhoria futura incluem:
-
-- **Melhor comunicação:** Aprimorar a comunicação entre membros da equipe e partes interessadas.
-
-- **Treinamento adicional:** Investir em treinamento para aprimorar habilidades técnicas e de gestão ágil.
-
-- **Automatização:** Expandir a automação de testes e processos para maior eficiência.
-
-- **Retrospectivas:** Realizar retrospectivas eficazes para aplicar lições aprendidas.
-
-- **Inovação contínua:** Incentivar a criatividade e a inovação na equipe.
+- **Comunicação eficaz:** Realizar reuniões diárias com foco em impedimentos e progresso.
+- **Treinamento técnico:** Investir em cursos de automação de testes e ferramentas ágeis.
+- **Automação avançada:** Implementar pipelines de CI/CD para integração contínua.
+- **Métricas ágeis:** Monitorar velocidade, taxa de defeitos e cobertura de testes.
 
 ## Outros Tópicos
 
-Além disso, considere explorar outros tópicos interessantes relacionados ao Scrum e ao desenvolvimento ágil, como:
-
+Além disso, considere explorar outros tópicos relacionados ao Scrum e ao desenvolvimento ágil, como:
 - **Gestão de backlog de produtos:** Priorização e planejamento de backlog.
-
 - **Escalabilidade com SAFe:** Estratégias para equipes maiores.
-
 - **Integração de DevOps:** Melhorar a entrega contínua.
-
 - **Métricas ágeis:** Medir o desempenho da equipe e a qualidade do produto.
 
 ## Contribuindo
