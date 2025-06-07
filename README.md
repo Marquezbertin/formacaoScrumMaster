@@ -1,4 +1,4 @@
-# Formacao Scrum Master - Dio
+# Formacao Scrum Master 
 
 ## Compreendendo na Prática a Aplicação e Uso do Scrum
 
