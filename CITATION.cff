@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se vocÃª usar este software, cite-o como abaixo."
+title: "Desenvolvimento de  habilidades de an├ílise cr├¡tica em rela├º├úo ao uso do Scrum"
+authors:
+  - family-names: Marquez
+    given-names: Bruno Bertin
+version: 1.0.0
+date-released: "2026-11-12"
+url: "https://github.com/Marquezbertin/formacaoScrumMaster"
+repository-code: "https://github.com/Marquezbertin/formacaoScrumMaster"
